@@ -7,3 +7,6 @@
    No Data Bais
    NO AJAX
    
+## copyright
+
+   copyright by Devugees 2018
