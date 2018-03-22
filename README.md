@@ -5,3 +5,5 @@
    No JavaScript
    No NodeJS
    No Data Bais
+   NO AJAX
+   
